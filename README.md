@@ -1,25 +1,44 @@
-# Nuxt 3 Minimal Starter
+# Luna's Homepage
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A personal website built with [Nuxt 3](https://nuxt.com), featuring a clean and modern interface with animated cards linking to my other projects.
+
+![Luna's Homepage](https://www.lunazhu.top)
+
+## Features
+
+- Responsive design with Tailwind CSS
+- Smooth animations with GSAP
+- Links to personal projects:
+  - Luna's Blog
+  - Estropad Tracker
+  - Todo List
+- GitHub profile link
+- Pixel art styling
+
+## Tech Stack
+
+- [Nuxt 3](https://nuxt.com/) - Vue.js Framework
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [GSAP](https://greensock.com/gsap/) - Animation library
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
 # npm
 npm install
+
+# yarn
+yarn install
 
 # pnpm
 pnpm install
 ```
 
-## Development Server
+## Development
 
-Start the development server on http://localhost:3000
+Start the development server on http://localhost:3000:
 
 ```bash
 npm run dev
@@ -33,10 +52,12 @@ Build the application for production:
 npm run build
 ```
 
-Locally preview production build:
+Preview the production build locally:
 
 ```bash
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Deployment
+
+Check out the [Nuxt deployment documentation](https://nuxt.com/docs/getting-started/deployment) for options on deploying your application.
