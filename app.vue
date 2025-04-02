@@ -7,7 +7,7 @@
         </h1>
         
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-          <div class="pixel-button flex items-center justify-center gap-2 bg-gray-200 hover:bg-pink-300 text-gray-700 rounded-lg">
+          <div class="pixel-button flex items-center justify-center gap-2 bg-purple-200 hover:bg-pink-300 text-gray-700 rounded-lg">
             <a href="https://blog.lunazhu.top" target="_blank" class="block text-center">
               <svg class="w-24 h-24 mx-auto mb-4" viewBox="0 0 32 32">
                 <rect x="8" y="6" width="16" height="20" fill="#ff69b4"/>
@@ -21,7 +21,7 @@
             </a>
           </div>
           
-          <div class="pixel-button flex items-center justify-center gap-2 bg-gray-200 hover:bg-pink-300 text-gray-700 rounded-lg">
+          <div class="pixel-button flex items-center justify-center gap-2 bg-blue-200 hover:bg-pink-300 text-gray-700 rounded-lg">
             <a href="https://estropad.lunazhu.top" target="_blank" class="block text-center">
               <svg class="w-24 h-24 mx-auto mb-4" viewBox="0 0 32 32">
                 <rect x="6" y="6" width="20" height="20" fill="#4a9eff"/>
@@ -39,7 +39,7 @@
             </a>
           </div>
           
-          <div class="pixel-button flex items-center justify-center gap-2 bg-gray-200 hover:bg-pink-300 text-gray-700 rounded-lg">
+          <div class="pixel-button flex items-center justify-center gap-2 bg-purple-200 hover:bg-pink-300 text-gray-700 rounded-lg">
             <a href="https://todo.lunazhu.top" target="_blank" class="block text-center">
               <svg class="w-24 h-24 mx-auto mb-4" viewBox="0 0 32 32">
                 <rect x="6" y="6" width="20" height="20" fill="#9c27b0"/>
